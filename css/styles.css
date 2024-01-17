@@ -11027,7 +11027,7 @@ footer.footer .social-link:hover {
 }
 
 .masthead .btn-primary {
-  padding: 5px 15px; /* Smaller padding makes the button shorter */
+  position: relative;
   margin-top: -10px;
   
 @media (min-width: 992px) {
