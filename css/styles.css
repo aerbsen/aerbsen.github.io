@@ -11065,11 +11065,11 @@ footer.footer .social-link:hover {
   background-color: rgba(255, 255, 255, 0.7); /* White background with 70% opacity */
   padding: 10px; /* Add padding for visual comfort */
   border-radius: 5px; /* Optional: rounded corners for aesthetics */
-  color: #fff;
+  color: black;
   margin: auto 2rem 2rem;
 }
 .portfolio-item .caption .caption-content h2, .portfolio-item .caption .caption-content .h2 {
-  font-size: 0.8rem;
+  font-size: larger;
   text-transform: uppercase;
 }
 .portfolio-item .caption .caption-content p {
