@@ -11026,7 +11026,7 @@ footer.footer .social-link:hover {
   color: white;
 }
 .masthead h3 {
-  color: white;
+  color: white !important;
 }
 .masthead .btn-primary {
   position: relative;
@@ -11034,7 +11034,7 @@ footer.footer .social-link:hover {
 }
 @media (min-width: 992px) {
   .masthead {
-    height: 20vh;
+    height: 15vh;
   }
   .masthead h1, .masthead .h1 {
     font-size: 5.5rem;
