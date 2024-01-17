@@ -11031,6 +11031,8 @@ footer.footer .social-link:hover {
 .masthead .btn-primary {
   position: relative;
   margin-top: -10px;
+  padding-top: 5px; /* Reduced top padding */
+  padding-bottom: 5px; /* Reduced bottom padding */
 }
 @media (min-width: 992px) {
   .masthead {
