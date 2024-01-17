@@ -11086,7 +11086,7 @@ footer.footer .social-link:hover {
             clip-path: inset(0px);
   }
   .portfolio-item .caption .caption-content {
-    transition: opacity 0.25s;
+    transition: opacity 0.75s;
     margin-left: 5rem;
     margin-right: 5rem;
     margin-bottom: 5rem;
