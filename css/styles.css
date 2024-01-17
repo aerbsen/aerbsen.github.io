@@ -11062,6 +11062,9 @@ footer.footer .social-link:hover {
   z-index: 1;
 }
 .portfolio-item .caption .caption-content {
+  background-color: rgba(255, 255, 255, 0.7); /* White background with 70% opacity */
+  padding: 10px; /* Add padding for visual comfort */
+  border-radius: 5px; /* Optional: rounded corners for aesthetics */
   color: #fff;
   margin: auto 2rem 2rem;
 }
@@ -11086,7 +11089,7 @@ footer.footer .social-link:hover {
             clip-path: inset(0px);
   }
   .portfolio-item .caption .caption-content {
-    transition: opacity 0.75s;
+    transition: opacity 0.25s;
     margin-left: 5rem;
     margin-right: 5rem;
     margin-bottom: 5rem;
