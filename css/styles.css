@@ -11025,12 +11025,17 @@ footer.footer .social-link:hover {
   padding: 0;
   color: white;
 }
+
+.masthead .btn-primary {
+  padding: 5px 15px; /* Smaller padding makes the button shorter */
+  
 @media (min-width: 992px) {
   .masthead {
     height: 30vh;
   }
   .masthead h1, .masthead .h1 {
     font-size: 5.5rem;
+    color: white;
   }
 }
 
