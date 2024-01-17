@@ -11007,7 +11007,7 @@ footer.footer .social-link:hover {
   }
 }
 .masthead {
-  min-height: 30rem;
+  min-height: 9rem;
   position: relative;
   display: table;
   width: 100%;
@@ -11023,10 +11023,11 @@ footer.footer .social-link:hover {
   font-size: 4rem;
   margin: 0;
   padding: 0;
+  color: white;
 }
 @media (min-width: 992px) {
   .masthead {
-    height: 100vh;
+    height: 30vh;
   }
   .masthead h1, .masthead .h1 {
     font-size: 5.5rem;
